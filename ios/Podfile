@@ -1,0 +1,12 @@
+platform :ios, '8.0'
+
+target 'RNSegmentAnalytics' do
+  
+  # use_frameworks!
+  # Pods for RNSegmentAnalytics
+
+  pod 'Analytics'
+  pod 'Segment-GoogleAnalytics'
+
+end
+
